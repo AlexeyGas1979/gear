@@ -1,0 +1,3 @@
+(function() {var implementors = {};
+implementors["gstd"] = [{"text":"impl <a class=\"trait\" href=\"gstd/prelude/fmt/trait.Display.html\" title=\"trait gstd::prelude::fmt::Display\">Display</a> for <a class=\"enum\" href=\"gstd/errors/enum.ContractError.html\" title=\"enum gstd::errors::ContractError\">ContractError</a>","synthetic":false,"types":["gstd::common::errors::ContractError"]}];
+if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()

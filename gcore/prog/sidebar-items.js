@@ -1,0 +1,1 @@
+initSidebarItems({"fn":[["create_program_with_gas","Creates a new program and returns its address."]]});

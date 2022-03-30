@@ -1,0 +1,1 @@
+initSidebarItems({"constant":[["EXISTENTIAL_DEPOSIT",""]],"fn":[["calculate_program_id",""]],"struct":[["CoreLog",""],["Log",""],["Program",""],["RunResult",""],["System",""]],"trait":[["WasmProgram",""]]});

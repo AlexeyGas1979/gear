@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["CheckedCode","Contains raw binary code of a program and initial memory size from memory import."],["CheckedCodeWithHash","Contains checked code for a program and the hash for it."]]});

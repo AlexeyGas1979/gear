@@ -1,0 +1,1 @@
+initSidebarItems({"mod":[["code","Module for checked code."],["env","Environment for running a module."],["gas","Gas module."],["ids","Base identifiers for messaging primitives."],["memory","Module for memory and allocations context."],["message","Message processing module."],["program","Module for programs."]]});

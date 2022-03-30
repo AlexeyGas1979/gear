@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["AllocationsConfig","Memory/allocation config."],["BlockInfo","Contextual block information."],["ExecutionSettings","Execution settings for handling messages."]]});

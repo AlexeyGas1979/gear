@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["CodeId","Code identifier"],["MessageId","Message identifier"],["ProgramId","Program identifier"]]});

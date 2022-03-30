@@ -1,0 +1,1 @@
+initSidebarItems({"mod":[["exec","Sys calls related to the program execution flow."],["msg","Messaging API for Gear programs."],["prog","Program creation API for Gear programs."]],"struct":[["ActorId","Program identifier."],["CodeHash",""],["MessageHandle","Message handle."],["MessageId","Message identifier."]]});

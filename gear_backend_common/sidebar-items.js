@@ -1,0 +1,1 @@
+initSidebarItems({"constant":[["EXIT_TRAP_STR",""],["LEAVE_TRAP_STR",""],["WAIT_TRAP_STR",""]],"enum":[["TerminationReason",""]],"mod":[["funcs",""]],"struct":[["BackendError",""],["BackendReport",""],["ExtInfo",""]],"trait":[["Environment",""],["IntoExtInfo",""]]});

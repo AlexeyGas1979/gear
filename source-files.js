@@ -1,0 +1,12 @@
+var N = null;var sourcesIndex = {};
+sourcesIndex["galloc"] = {"name":"","files":["lib.rs","prelude.rs"]};
+sourcesIndex["gcore"] = {"name":"","files":["exec.rs","general.rs","lib.rs","msg.rs","prog.rs","utils.rs"]};
+sourcesIndex["gear_backend_common"] = {"name":"","files":["funcs.rs","lib.rs"]};
+sourcesIndex["gear_backend_sandbox"] = {"name":"","files":["env.rs","funcs.rs","lib.rs","memory.rs"]};
+sourcesIndex["gear_core"] = {"name":"","dirs":[{"name":"message","files":["common.rs","context.rs","handle.rs","incoming.rs","init.rs","mod.rs","reply.rs","stored.rs"]}],"files":["code.rs","env.rs","gas.rs","ids.rs","lib.rs","memory.rs","program.rs"]};
+sourcesIndex["gear_core_processor"] = {"name":"","files":["common.rs","configs.rs","executor.rs","ext.rs","handler.rs","lib.rs","processor.rs"]};
+sourcesIndex["gear_lazy_pages"] = {"name":"","files":["lib.rs","unix.rs"]};
+sourcesIndex["gear_wasm_builder"] = {"name":"","files":["builder_error.rs","cargo_command.rs","crate_info.rs","lib.rs","stack_end.rs","wasm_project.rs"]};
+sourcesIndex["gstd"] = {"name":"","dirs":[{"name":"async_runtime","files":["futures.rs","mod.rs","signals.rs","waker.rs"]},{"name":"common","files":["errors.rs","handlers.rs","mod.rs","primitives.rs"]},{"name":"lock","files":["access.rs","mod.rs","mutex.rs","rwlock.rs"]},{"name":"macros","files":["bail.rs","debug.rs","export.rs","metadata.rs","mod.rs"]},{"name":"msg","files":["async.rs","basic.rs","encoded.rs","mod.rs"]},{"name":"prog","files":["mod.rs"]}],"files":["exec.rs","lib.rs","prelude.rs"]};
+sourcesIndex["gtest"] = {"name":"","files":["lib.rs","log.rs","manager.rs","program.rs","system.rs"]};
+createSourceSidebar();

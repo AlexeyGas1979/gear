@@ -1,0 +1,1 @@
+window.ALL_CRATES = ["galloc","gcore","gear_backend_common","gear_backend_sandbox","gear_core","gear_core_processor","gear_lazy_pages","gear_wasm_builder","gstd","gtest"];
